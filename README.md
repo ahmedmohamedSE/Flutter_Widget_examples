@@ -1,4 +1,4 @@
-# flutter_app
+# Flutter Widget Examples
 
 A new Flutter project.
 
